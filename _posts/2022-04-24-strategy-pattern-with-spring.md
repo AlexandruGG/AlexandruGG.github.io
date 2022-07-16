@@ -4,7 +4,7 @@ The [Spring Framework](https://spring.io/) (and its extension - Spring Boot) all
 
 There are multiple ways we could implement this with Spring - in this article I aim to showcase the simplest and most effective way I believe can be applied in the majority of use cases.
 
-Notes: this article uses code written in Java 17, but equivalent solutions can be achieved with earlier versions.
+Note: this article uses code written in Java 17, but equivalent solutions can be achieved with earlier versions.
 
 ---
 
